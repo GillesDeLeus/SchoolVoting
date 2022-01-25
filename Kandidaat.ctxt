@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Kandidaat
+comment0.text=\r\n\ class\ Kandidaat\ -\ geef\ hier\ een\ beschrijving\ van\ deze\ class\r\n\r\n\ @author\ (jouw\ naam)\r\n\ @version\ (versie\ nummer\ of\ datum)\r\n
+comment1.params=naam\ id
+comment1.target=Kandidaat(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNaam()
+comment3.params=
+comment3.target=java.lang.String\ getCode()
+comment4.params=i
+comment4.target=Faculteit\ getFaculteit(int)
+comment5.params=
+comment5.target=int\ totaalAantalStemmen()
+comment5.text=\r\n\ overloopt\ de\ gehele\ tabel\ en\ telt\ telkens\ de\ waarde\ op\ bij\ het\ totaal\r\n\ \r\n\ @return\ geeft\ het\ totaal\ aantal\ stemmen\ terug\u00A8als\ int\r\n
+comment6.params=fac
+comment6.target=void\ geefStem(Faculteit)
+comment6.text=\r\n\ zal\ voor\ elke\ opgegeven\ faculteit\ de\ overeenkomstige\ waarde\ in\ de\ tabel\r\n\ optellen\r\n\ \r\n@param\ geef\ de\ faculteit\ op\ \u00A8\r\n@return\ geen\ returntype\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n@return\ een\ stringrepresentatie\ \u00A8\r\n
+numComments=8

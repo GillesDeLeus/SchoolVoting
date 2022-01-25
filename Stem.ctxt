@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Stem
+comment0.text=\n\ class\ Stem\ -\ geef\ hier\ een\ beschrijving\ van\ deze\ class\n\n\ @author\ (jouw\ naam)\n\ @version\ (versie\ nummer\ of\ datum)\n
+comment1.params=codeStemmer\ codeKandidaat
+comment1.target=Stem(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getCodeStemmer()
+comment3.params=
+comment3.target=java.lang.String\ getCodeKandidaat()
+comment4.params=
+comment4.target=void\ maakCodeLeeg()
+numComments=5

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Verkiezing
+comment0.text=\r\n\ class\ Verkiezing\ -\ geef\ hier\ een\ beschrijving\ van\ deze\ class\r\n\r\n\ @author\ (jouw\ naam)\r\n\ @version\ (versie\ nummer\ of\ datum)\r\n
+comment1.params=
+comment1.target=Verkiezing()
+comment2.params=
+comment2.target=int\ getAantalGeldigeStemmen()
+comment3.params=
+comment3.target=int\ getAantalOngeldigeStemmen()
+comment4.params=lid
+comment4.target=void\ toevoegenPersoneelslid(Personeelslid)
+comment5.params=kandidaat
+comment5.target=void\ toevoegenKandidaat(Kandidaat)
+comment6.params=stem
+comment6.target=boolean\ gestemd(Stem)
+comment7.params=
+comment7.target=Kandidaat\ wieIsNieuweRector()
+numComments=8
